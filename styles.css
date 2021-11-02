@@ -46,7 +46,7 @@ li{
     color: orangered;
 }
 
-.pizza.png{
+.pizza{
     width: 50%;
 }
 a{
@@ -54,3 +54,21 @@ a{
 
 }
 
+/* cake page */
+
+.cake-text {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: left;
+   color: white;
+   font-size: 25px;
+   font-weight: bold;
+
+
+}
+
+.section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+    
+
+}
